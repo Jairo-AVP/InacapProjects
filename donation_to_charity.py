@@ -1,6 +1,9 @@
 """
 Donation to charity: The following if/elif/else statements will display a “thank you” message after someone donates to a charity; 
 there will be a curated message based on how much was donated.
+
+Spanish Translation: Donación a una organización benéfica: Las siguientes declaraciones if/elif/else mostrarán un mensaje de agradecimiento 
+después de que alguien done a una organización benéfica. Se mostrará un mensaje personalizado según la cantidad donada.
 """
 
 donation = 1000
