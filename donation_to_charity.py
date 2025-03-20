@@ -1,7 +1,6 @@
 """
 Donation to charity: The following if/elif/else statements will display a “thank you” message after someone donates to a charity; 
 there will be a curated message based on how much was donated.
-
 """
 
 donation = 1000
